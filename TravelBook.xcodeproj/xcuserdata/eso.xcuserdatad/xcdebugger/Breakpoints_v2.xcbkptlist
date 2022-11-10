@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2586E47-726B-4534-8360-AC92D0DCD7B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelBook/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "ListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - becbac87c07f5e35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - bf693b3925490239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - 9d1ae12fecb7fb0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - deeb95c8086f7797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - abb37410d4cfa96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelBook.ListViewController"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "C26D3BD7-7AC2-4E02-9928-95FA0815B103 - c20a5587c62233a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelBook.ListViewController&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1421594-BF04-40DC-9D41-997404F600E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelBook/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "ListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - becbac87c07f5e35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - bf693b3925490239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - 9d1ae12fecb7fb0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - deeb95c8086f7797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - abb37410d4cfa96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelBook.ListViewController"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "F1421594-BF04-40DC-9D41-997404F600E0 - c20a5587c62233a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelBook.ListViewController&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eso/Documents/projeler/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
